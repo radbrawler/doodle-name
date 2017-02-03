@@ -1,0 +1,17 @@
+{
+  "name": "doodle-name",
+  "version": "1.0.0",
+  "description": "Heroku app for doodle names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "doodle"
+  ],
+  "author": "radbrawler",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
